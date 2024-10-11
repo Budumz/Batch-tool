@@ -1,7 +1,7 @@
 @echo off
 
 :: GitHub repository information
-set "repoOwner=Budumz2"
+set "repoOwner=Budumz"
 set "repoName=Batch-tool"
 set "latestVersionURL=https://raw.githubusercontent.com/%repoOwner%/%repoName%/main/version.txt"
 set "localVersionFile=%~dp0version.txt"
